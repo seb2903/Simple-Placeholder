@@ -1,1 +1,2 @@
 creation d un fichier test.txt
+le fichier a bien été ajouté avec le commit
