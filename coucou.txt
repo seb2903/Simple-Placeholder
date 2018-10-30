@@ -1,1 +1,2 @@
 Bonjour, bienvenue les amis !!!
+ceci est un test afin de generer un commit.
